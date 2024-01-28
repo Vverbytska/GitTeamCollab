@@ -6,4 +6,6 @@ public class Methods {
     //method 2
 
     // method 3
+
+    //method 4
 }
