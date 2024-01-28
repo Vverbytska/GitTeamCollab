@@ -6,5 +6,6 @@ public class Conflict {
     // I made a change here
 
     //Natalia made changes on my branch
+    // Conflict #2 by Natalia
 
 }
