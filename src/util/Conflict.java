@@ -9,4 +9,7 @@ public class Conflict {
     // Conflict #2 by Natalia
 
     //Valeriia
+    // conflict 3
+
+
 }
